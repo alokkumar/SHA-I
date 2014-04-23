@@ -1,0 +1,4 @@
+SHA-I
+=====
+
+This code generates hashcode of a message provided by the user using SHA-I. The implementation has been done using JavaSctipt.
