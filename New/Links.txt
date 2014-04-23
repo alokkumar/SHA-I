@@ -1,3 +1,0 @@
-http://stackoverflow.com/questions/14795357/javascript-in-html-write-to-file
-
-http://www.htmlgoodies.com/beyond/javascript/read-text-files-using-the-javascript-filereader.html#fbid=ApvdHtAhKmD
