@@ -1,5 +1,7 @@
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  */
-/*  SHA-1 implementation in JavaScript                               */
+/*  SHA-1 implementation in JavaScript | (c) Chris Veness 2002-2013 | www.movable-type.co.uk      */
+/*   - see http://csrc.nist.gov/groups/ST/toolkit/secure_hashing.html                             */
+/*         http://csrc.nist.gov/groups/ST/toolkit/examples.html                                   */
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  */
 
 var Sha1 = {};  // Sha1 namespace

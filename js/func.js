@@ -104,6 +104,7 @@ function Pad()
 
  
 
+ 
 
     if(x < 448)
 
@@ -193,12 +194,8 @@ function ShowFinalMessage()
 
 {
 
-	document.SHA.FinalMessage.value = OriginalMessage;
+	//document.SHA.FinalMessage.value = OriginalMessage;
 
     document.SHA.FinalMessage.value += "\n\n                HASH CODE INSERTED HERE";  
 
 }
-
-
-
-
